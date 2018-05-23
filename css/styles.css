@@ -6,7 +6,7 @@ body {
 
 }
 .best {
-
+border: 1px solid black;
 }
 .mainbody {
   margin: 0 auto;
@@ -19,4 +19,5 @@ img{
   width: 24.5%;
   display: inline-block;
   vertical-align: top;
+  text-align: center;
 }
